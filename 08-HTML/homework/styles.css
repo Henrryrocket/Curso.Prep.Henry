@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    /* padding: 0; */
+}
+h1{
+    color:indigo;
+    max-width: 800px;
+    height: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    padding: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: solid 5px violet;
+    border-radius: 20px;
+    font-size: 50px;
+    background-color: lavender;
+    
+}
+h3{
+    border: 1px solid white;
+    color: black;
+    background-color: yellow;
+    text-align: center;
+    font-size: 25px;
+    margin: 5px;
+    padding: 10px;
+    width:initial;
+    
+}
+h4{
+    border: 1px solid white;
+    color: black;
+    background-color: rgba(255, 255, 0, 0.349);
+    text-align: center;
+    font-size: 25px;
+    padding: 20px;
+
+}
+img{
+    width: 400px;
+}
+body{
+    background: url('https://images.pexels.com/photos/3694711/pexels-photo-3694711.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
+}
+div{
+    list-style: none;
+    /* position: relative; */
+}
+footer{
+    border: 1px solid wheat;
+    background-color: white;
+    padding: 5px;
+    text-align: center;
+    color:cadetblue;
+    justify-content: center;
+
+}
+
+ul li{
+    list-style: none;
+}
+#thirdDiv{
+    height: 600px;
+    width: 1000px;
+    background: khaki;
+    padding: 50px;
+    border: 2px solid red;
+    display: inline-block;
+    justify-content: center;
+}
+
+.divClass1{
+    display: block;
+    height: 120px;
+    border: 1px solid black;
+}
+#spanId{
+    font-size: 18px;
+    width: 800px;
+    border: 1px solid black;
+    margin: 5px;
+    padding: 20px;
+    background-color: blanchedalmond;
+    color: brown;
+    height: 5px;
+    display: inline-block;
+    text-align: center;
+    justify-self: center;
+}
+a{
+    text-decoration: none;
+    font-size: 18px;
+    color: brown;
+    background-color: blanchedalmond;
+    border: 1px solid black;
+    justify-content: right;
+    height: 5px;
+    margin: 10px;
+    padding: 20px;
+    margin: 5px;
+    display: inline-flex;
+    width: 410px;
+}
+ul li{
+    display: inline-block;
+    
+}
+

@@ -45,7 +45,7 @@ body{
 }
 div{
     list-style: none;
-    /* position: relative; */
+    /* justify-self: center; */
 }
 footer{
     border: 1px solid wheat;
@@ -59,15 +59,23 @@ footer{
 
 ul li{
     list-style: none;
+    justify-self: center;
+    padding: 20px;
+    margin: 10px;
 }
 #thirdDiv{
+
     height: 600px;
     width: 1000px;
     background: khaki;
     padding: 50px;
     border: 2px solid red;
     display: inline-block;
-    justify-content: center;
+    justify-self: center;
+    margin-left: 100px;
+    
+    
+
 }
 
 .divClass1{
@@ -104,6 +112,6 @@ a{
 }
 ul li{
     display: inline-block;
-    
+
 }
 
